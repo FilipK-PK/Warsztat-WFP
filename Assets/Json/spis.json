@@ -1,0 +1,731 @@
+{
+    "listItems": [
+        {
+            "id": 1,
+            "name": "Janek",
+            "describe": "---",
+            "patch_img": "Items/janek",
+            "box": [
+                0
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 1
+        },
+        {
+            "id": 2,
+            "name": "Maciek",
+            "describe": "---",
+            "patch_img": "Items/maciek",
+            "box": [
+                0
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "Wies\u0142aw",
+            "describe": "---",
+            "patch_img": "Items/wieslaw",
+            "box": [
+                0
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "Spawarka",
+            "describe": "Spawarka jest u\u017cywana do \u0142\u0105czenia metalowych cz\u0119\u015bci poprzez topnienie i \u0142\u0105czenie materia\u0142u metalowego. Narz\u0119dzie stosuje elektrod\u0119 spawalnicz\u0105 lub inny rodzaj spoiwa, aby stworzy\u0107 trwa\u0142e po\u0142\u0105czenie.",
+            "patch_img": "Items/spawarka",
+            "box": [
+                1
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 5,
+            "name": "Prasa kraw\u0119dziowa",
+            "describe": "---",
+            "patch_img": "Items/prasa-reczna",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 6,
+            "name": "Zaginarka do tworzyw sztucznych",
+            "describe": "---",
+            "patch_img": "Items/zaginarka-pcv",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 7,
+            "name": "Zaginarka do profili kwadratowych",
+            "describe": "Maszyna s\u0142u\u017c\u0105ca do wytwarzania \u0142uk\u00f3w i okr\u0119g\u00f3w z profili kwadratowych, o du\u017cym promieniu zagi\u0119cia.",
+            "patch_img": "Items/zaginarka-profil",
+            "box": [
+                1
+            ],
+            "danger": 1,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 8,
+            "name": "Pi\u0142a ta\u015bmowa do metalu",
+            "describe": "Maszyna z ta\u015bm\u0105 z\u0119bat\u0105 s\u0142u\u017c\u0105ca do ci\u0119cia profili metalowych, rur i pr\u0119t\u00f3w. Regulacja k\u0105ta ci\u0119cia.",
+            "patch_img": "Items/ukosna-metal",
+            "box": [
+                1
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 9,
+            "name": "Wiertarko frezarka",
+            "describe": "Frezarka jest wyposa\u017cona w r\u00f3\u017cne rodzaje frez\u00f3w, kt\u00f3re s\u0105 zamocowane na wrzecionie maszyny. Obracaj\u0105c korbami sto\u0142u frezarki i reguluj\u0105c wysoko\u015b\u0107 wrzeciona wykonuje si\u0119 obr\u00f3bk\u0119 skrawaniem materia\u0142u umieszczonego na stole maszyny",
+            "patch_img": "Items/frezarka-stolowa",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [
+                37,
+                38
+            ],
+            "category": 0
+        },
+        {
+            "id": 10,
+            "name": "Tokarka",
+            "describe": "Urz\u0105dzenie s\u0142u\u017c\u0105ce do obr\u00f3bki skrawaniem materia\u0142\u00f3w walcowych. Pozwala na planowanie powierzchni wzd\u0142u\u017cnych i poprzecznych, wiercenie w osi obrotu materia\u0142\u00f3w i szereg innych zastosowa\u0144.",
+            "patch_img": "Items/tokarka",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 11,
+            "name": "Termoformierka",
+            "describe": "---",
+            "patch_img": "Items/termoformierka",
+            "box": [
+                1
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 12,
+            "name": "Drut do styroduru",
+            "describe": "---",
+            "patch_img": "Items/drut-styrodur",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 13,
+            "name": "Wiertarka sto\u0142owa",
+            "describe": "---",
+            "patch_img": "Items/wiertarka-stacjonarna",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 14,
+            "name": "Ci\u0119\u017cka dremelka",
+            "describe": "Dremel to narz\u0119dzie wielofunkcyjne z r\u00f3\u017cnymi akcesoriami, takimi jak frezy, tarcze tn\u0105ce i szlifierskie. S\u0142u\u017cy do precyzyjnych prac wyko\u0144czeniowych, wiercenia ma\u0142ych otwor\u00f3w i ci\u0119cia w ma\u0142ych detalach.",
+            "patch_img": "Items/dremel",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 15,
+            "name": "Szlifierka do metalu",
+            "describe": "---",
+            "patch_img": "Items/szlifierka-metal",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 16,
+            "name": "Zaginarka do plaskownik\u00f3w",
+            "describe": "---",
+            "patch_img": "Items/zaginarka-plaskownik",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 17,
+            "name": "Lakiernia",
+            "describe": "---",
+            "patch_img": "Items/lakiernia",
+            "box": [
+                3
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 2
+        },
+        {
+            "id": 18,
+            "name": "Frezarka CNC",
+            "describe": "---",
+            "patch_img": "Items/cnc",
+            "box": [
+                6
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 19,
+            "name": "Laserowa maszyna do ci\u0119cia",
+            "describe": "W laserowej maszynie do ci\u0119cia, narz\u0119dziem jest wi\u0105zka laserowa o regulowanej mocy. Wi\u0105zka koncentruje si\u0119 na powierzchni materia\u0142u, przeprowadzaj\u0105c precyzyjne ci\u0119cie lub grawerowanie.",
+            "patch_img": "Items/laser",
+            "box": [
+                5
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 20,
+            "name": "Ploter",
+            "describe": "---",
+            "patch_img": "Items/ploter",
+            "box": [
+                5
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 21,
+            "name": "Drukarka 3D",
+            "describe": "---",
+            "patch_img": "Items/drukarka-3d",
+            "box": [
+                5
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 22,
+            "name": "\u015awietlica",
+            "describe": "---",
+            "patch_img": "Items/22",
+            "box": [
+                7
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 2
+        },
+        {
+            "id": 23,
+            "name": "Warsztat prac r\u0119cznych",
+            "describe": "---",
+            "patch_img": "Items/manualna",
+            "box": [
+                4
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 2
+        },
+        {
+            "id": 24,
+            "name": "Pi\u0142a tarczowa uko\u015bna",
+            "describe": "---",
+            "patch_img": "Items/pila-ukosna",
+            "box": [
+                2
+            ],
+            "danger": 2,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 25,
+            "name": "Szlifierka ta\u015bmowa",
+            "describe": "Do szlifowania drewna i niekt\u00f3rych tworzyw sztucznych. Nie nadaje si\u0119 do szlifowania metali!",
+            "patch_img": "Items/szlifierka-tasmowa",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 26,
+            "name": "Szlifierka k\u0105towa",
+            "describe": "---",
+            "patch_img": "Items/szlifierka-katowa",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 27,
+            "name": "Pi\u0142a sto\u0142owa",
+            "describe": "Urz\u0105dzenie stacjonarne umo\u017cliwiaj\u0105ce precyzyjne przecinanie du\u017cych materia\u0142\u00f3w. S\u0142u\u017cy do ci\u0119cia p\u0142yt HDF, meblowych oraz desek i klejonek drewnianych. Po zmianie tarczy tn\u0105cej mo\u017cliwe ci\u0119cie formatek tworzywa sztucznego.",
+            "patch_img": "Items/pila-stolowa",
+            "box": [
+                2
+            ],
+            "danger": 2,
+            "components": [
+                39
+            ],
+            "category": 0
+        },
+        {
+            "id": 28,
+            "name": "Pi\u0142a ta\u015bmowa",
+            "describe": "Maszyna z ta\u015bm\u0105 z\u0119bat\u0105 s\u0142u\u017c\u0105ca do ci\u0119cia na wprost materia\u0142\u00f3w drewnianych i tworzyw sztucznych.",
+            "patch_img": "Items/pila-tasmowa",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 29,
+            "name": "Wiertarka sto\u0142owa",
+            "describe": "---",
+            "patch_img": "Items/wiertarka-stolowa-2",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 30,
+            "name": "Wiertatka pionowa",
+            "describe": "---",
+            "patch_img": "Items/wiertarka-kolumnowa",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 31,
+            "name": "Wiertarko-frezarka",
+            "describe": "Frezarka jest wyposa\u017cona w r\u00f3\u017cne rodzaje frez\u00f3w, kt\u00f3re s\u0105 zamocowane na wrzecionie maszyny. Obracaj\u0105c korbami sto\u0142u frezarki i reguluj\u0105c wysoko\u015b\u0107 wrzeciona wykonuje si\u0119 obr\u00f3bk\u0119 skrawaniem materia\u0142u umieszczonego na stole maszyny",
+            "patch_img": "Items/frezarko-wiertarka",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [
+                47
+            ],
+            "category": 0
+        },
+        {
+            "id": 32,
+            "name": "Materia\u0142y do wykorzystywania",
+            "describe": "---",
+            "patch_img": "Items/materia\u0142y",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 2
+        },
+        {
+            "id": 33,
+            "name": "Pi\u0142a sto\u0142owa",
+            "describe": "Urz\u0105dzenie stacjonarne umo\u017cliwiaj\u0105ce precyzyjne przecinanie du\u017cych materia\u0142\u00f3w. S\u0142u\u017cy do ci\u0119cia p\u0142yt HDF, meblowych oraz desek i klejonek drewnianych. Po zmianie tarczy tn\u0105cej mo\u017cliwe ci\u0119cie formatek tworzywa sztucznego.",
+            "patch_img": "Items/pila-stolowa-2",
+            "box": [
+                2
+            ],
+            "danger": 2,
+            "components": [
+                39
+            ],
+            "category": 0
+        },
+        {
+            "id": 34,
+            "name": "Tokarka ma\u0142a",
+            "describe": "Urz\u0105dzenie s\u0142u\u017c\u0105ce do obr\u00f3bki skrawaniem materia\u0142\u00f3w walcowych. Pozwala na planowanie powierzchni wzd\u0142u\u017cnych i poprzecznych, wiercenie w osi obrotu materia\u0142\u00f3w i szereg innych zastosowa\u0144.",
+            "patch_img": "Items/tokarka-2",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 35,
+            "name": "Frezarka",
+            "describe": "Frezarka jest wyposa\u017cona w r\u00f3\u017cne rodzaje frez\u00f3w, kt\u00f3re s\u0105 zamocowane na wrzecionie maszyny. Obracaj\u0105c korbami sto\u0142u frezarki i reguluj\u0105c wysoko\u015b\u0107 wrzeciona wykonuje si\u0119 obr\u00f3bk\u0119 skrawaniem materia\u0142u umieszczonego na stole maszyny",
+            "patch_img": "Items/frezarka-2",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [
+                47
+            ],
+            "category": 0
+        },
+        {
+            "id": 36,
+            "name": "Pi\u0142a ta\u015bmowa",
+            "describe": "---",
+            "patch_img": "Items/pila-tasmowa-2",
+            "box": [
+                2
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 37,
+            "name": "Wiert\u0142o",
+            "describe": "S\u0142u\u017cy do wykonywania otwor\u00f3w w r\u00f3\u017cnych materia\u0142ach. W zale\u017cno\u015bci od zapotrzebowania istniej\u0105 np. wiert\u0142a kr\u0119te, pi\u00f3rowe(\u0142opatkowe), stopniowe(choinkowe), wierte\u0142 do rozwi\u0105za\u0144 systemowych (wiert\u0142a do konfirmat\u00f3w).",
+            "patch_img": "Items/5",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 38,
+            "name": "Na\u017cynka",
+            "describe": "---",
+            "patch_img": "Items/9",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 39,
+            "name": "Tarcza tn\u0105ca",
+            "describe": "Urz\u0105dzenie stacjonarne umo\u017cliwiaj\u0105ce precyzyjne przecinanie du\u017cych materia\u0142\u00f3w. S\u0142u\u017cy do ci\u0119cia p\u0142yt HDF, meblowych oraz desek i klejonek drewnianych. Po zmianie tarczy tn\u0105cej mo\u017cliwe ci\u0119cie formatek tworzywa sztucznego.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 40,
+            "name": "Wyrzynarka",
+            "describe": "Elektronarz\u0119dzie z oscyluj\u0105cym ostrzem(brzeszczotem), kt\u00f3re jest montowane w wyrzynarce za pomoc\u0105 zaczepu w przedniej cz\u0119\u015bci obudowy. Brzeszczot mo\u017ce by\u0107 r\u00f3\u017cnego rodzaju, w zale\u017cno\u015bci od materia\u0142u, kt\u00f3ry ma by\u0107 wycinany. S\u0142u\u017cy do precyzyjnego wycinania prostych i krzywoliniowych kszta\u0142t\u00f3w.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [
+                41
+            ],
+            "category": 0
+        },
+        {
+            "id": 41,
+            "name": "Brzeszczot",
+            "describe": "---",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 42,
+            "name": "Wiertarko-wkr\u0119tarka",
+            "describe": "Wiertarko-wkr\u0119tarka u\u017cywa wiert\u0142a do wiercenia otwor\u00f3w, nasadek i bit\u00f3w do wkr\u0119cania \u015brub i wkr\u0119t\u00f3w. Wiert\u0142a mog\u0105 mie\u0107 r\u00f3\u017cne \u015brednice i rodzaje, a nasadki i bity s\u0105 dostosowywane do rodzaju \u015brub i materia\u0142\u00f3w",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [
+                37,
+                43
+            ],
+            "category": 0
+        },
+        {
+            "id": 43,
+            "name": "Bit",
+            "describe": "Nasadka do wiertarek oraz wkr\u0119tarek, umo\u017cliwiaj\u0105ca prac\u0119 z dokr\u0119canymi elementami \u0142\u0105czeniowymi materia\u0142\u00f3w, takich jak \u015bruby lub wkr\u0119ty.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 44,
+            "name": "Szlifierka k\u0105towa",
+            "describe": "Szlifierka k\u0105towa u\u017cywa r\u00f3\u017cnych rodzaj\u00f3w tarcz, takich jak tarcza szlifierska do szlifowania powierzchni lub tarcza tn\u0105ca do ci\u0119cia materia\u0142\u00f3w. Tarcze s\u0105 dobierane w zale\u017cno\u015bci od zastosowania.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [
+                45,
+                46
+            ],
+            "category": 0
+        },
+        {
+            "id": 45,
+            "name": "Tarcza do szlifowania",
+            "describe": "Montowana do szlifierki k\u0105towej pozwala na szlifowanie spaw\u00f3w, wyg\u0142adzanie powierzchni lub polerowanie element\u00f3w metalowych w zale\u017cno\u015bci od rodzaju i gradacji tarczy szlifierskiej.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 46,
+            "name": "Tarcza do ci\u0119cia",
+            "describe": "Montowana do szlifierki k\u0105towej pozwala na ci\u0119cie materia\u0142\u00f3w metalowych. U\u017cytkowanie tylko z os\u0142on\u0105 na szlifierce k\u0105towej.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 47,
+            "name": "Frez",
+            "describe": "Narz\u0119dzie obrotowe s\u0142u\u017c\u0105ce do skrawania materia\u0142u z wykorzystaniem maszyny frezuj\u0105cej. R\u00f3\u017cni\u0105 si\u0119 od siebie w zale\u017cno\u015bci od materia\u0142u w kt\u00f3rych wykonuj\u0105 prac\u0119 oraz wymaganego kszta\u0142tu obrabianej powierzchni.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 48,
+            "name": "D\u0142uta r\u0119czne",
+            "describe": "D\u0142uta r\u0119czne s\u0105 narz\u0119dziami o ostrym, p\u0142askim lub zakrzywionym ostrzu, u\u017cywanymi do r\u0119cznego wycinania, rze\u017abienia i kszta\u0142towania drewna. S\u0105 niezb\u0119dne do precyzyjnych prac artystycznych i rze\u017abiarskich.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 49,
+            "name": "Gwintownik",
+            "describe": "S\u0142u\u017cy do wykonywania gwint\u00f3w w otworach.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 50,
+            "name": "\u015acisk warsztatowy",
+            "describe": "Do stabilnego mocowania element\u00f3w do sto\u0142u, klejenia drewna",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 51,
+            "name": "Szlifierka oscylacyjna",
+            "describe": "Do szlifowania, nadawania kszta\u0142t\u00f3w i wyg\u0142adzania powierzchni, najcz\u0119\u015bciej drewnianych",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 52,
+            "name": "Szlifierka ta\u015bmowa(C.Z.O.\u0141.G)",
+            "describe": "R\u0119czne elektronarz\u0119dzie do zgrubnego szlifowania materia\u0142\u00f3w drewnianych",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 53,
+            "name": "Gilotyna do blach",
+            "describe": "S\u0142u\u017cy do przecinania cienkich blach z metalu.",
+            "patch_img": "---",
+            "box": [
+                1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 54,
+            "name": "Imad\u0142o",
+            "describe": "S\u0142u\u017cy do mocowania obrabianych przedmiot\u00f3w dla uzyskania wi\u0119kszej stabilno\u015bci.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 55,
+            "name": "*Spr\u0119\u017cone powietrze*",
+            "describe": "W wyznaczonych miejscach na warsztacie umieszczone s\u0105 punkty do kt\u00f3rych mo\u017cna pod\u0142\u0105cza\u0107 narz\u0119dzia pneumatyczne. S\u0105 to odpowiedniki elektronarz\u0119dzi, lecz czynnikiem nap\u0119dzaj\u0105cym jest spr\u0119\u017cone powietrze.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 56,
+            "name": "Szafki z materia\u0142ami",
+            "describe": "W tych miejscach mo\u017cna znale\u017a\u0107 materia\u0142y potrzebne do pracy na zaj\u0119ciach. S\u0105 podzielone na kategorie materia\u0142\u00f3w: metal, drewno, tworzywa sztuczne.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 57,
+            "name": "Szafki z elektronarz\u0119dziami",
+            "describe": "W tych miejscach mo\u017cna znale\u017a\u0107 elektronarz\u0119dzia potrzebne do pracy.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 58,
+            "name": "Szafa z odczynnikami chemicznymi",
+            "describe": "Tutaj znajduj\u0105 si\u0119 r\u00f3\u017cnego rodzaju kleje, farby, odczynniki chemiczne potrzebne przy specjalistycznych dzia\u0142aniach.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        },
+        {
+            "id": 59,
+            "name": "Odci\u0105g wi\u00f3r\u00f3w",
+            "describe": "Uruchamiany wraz z przynale\u017cn\u0105 do niego maszyn\u0105 pozwala na pozbycie si\u0119 wi\u0119kszo\u015bci trocin i py\u0142\u00f3w powsta\u0142ych po ci\u0119ciu lub szlifowaniu materia\u0142\u00f3w.",
+            "patch_img": "---",
+            "box": [
+                -1
+            ],
+            "danger": 0,
+            "components": [],
+            "category": 0
+        }
+    ]
+}
